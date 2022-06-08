@@ -1,1 +1,1 @@
-# Sorting-Comparison-App
+# Sorting Comparison App
